@@ -1,0 +1,11 @@
+/*
+* Pseudocode for Quick Sort Algorithm.
+* 
+* Sorts the array A[i..j]
+*/
+
+procedure Quicksort(array A[i..j] of distinct integers){
+
+
+
+}
